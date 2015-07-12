@@ -1,0 +1,107 @@
+
+<!doctype html>
+<html class="no-js" lang="es" ng-app="KidzaniaApp">
+    <head>
+        <title>Kidzania. Estas vacaciones hay que vivirlas a lo grande.</title>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="Este verano queremos que tú y tus pequeños se diviertan en Kidzania, por eso te ofrecemos: 25% de descuento en boleto de entrada">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+        <link rel="canonical" href="http://localhost:5757/kidzania-promo" />
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+        <link rel="shortcut icon" href="http://localhost:5757/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="http://localhost:5757/favicon.png" type="image/png" />
+
+        <link rel="stylesheet" href="http://localhost:5757/css/main.css">
+        <script src="http://localhost:5757/js/vendor/modernizr-2.8.3.min.js"></script>
+    </head>
+    <body class="kidzania-promo">
+
+        <header class="wrapper">
+            <div class="central">
+                <div class="middle">
+                    <h1>
+                        <a href="http://localhost:5757/" title="Kidzania. Estas vacaciones hay que vivirlas a lo grande." class="clearfix">
+                            <img src="http://localhost:5757/img/kidnania-estas-vacaciones-hay-que-vivirlas-a-lo-grande.png" alt="Kidzania. Estas vacaciones hay que vivirlas a lo grande." width="414" height="233">
+                        </a>
+                    </h2>
+                </div>
+            </div>
+            <img src="http://localhost:5757/img/ninos-principal-desktop_01.png" alt="www.kidzania.com" class="desktop" width="755" heigth="222">
+        </header>
+        <section class="wrapper title">
+            <div class="center">
+                <div class="middle">
+                    <h2>Este verano queremos que tí y tus pequeños se diviertan en Kidzania, por eso te ofrecemos:</h2>
+                    <img src="http://localhost:5757/img/25-porciento-de-descuento-en-boleto-de-entrada.png" alt="25% de descuento en boleto de entrada" width="414" height="233">
+                    <p>Obtén tu descuento aquí:</p>
+                </div>
+            </div>
+            <img src="http://localhost:5757/img/ninos-principal-desktop_02.png" alt="www.kidzania.com" class="desktop" width="755" heigth="202">
+        </section>
+        <div class="wrapper contact">
+            <div class="central">
+                <div class="middle">
+                    <form name="contactForm" action="gateway.php" method="POST" novalidate ng-if="!contact.received" ng-submit="contactForm.$valid" ng-controller="ContactController as contact">
+                        <fieldset class="clearfix">
+                            <div class="input clearfix">
+                                <label for="first_name">
+                                    <input type="text" required="true" name="first_name" placeholder="Nombre" ng-model="contact.firstName" required>
+                                </label>
+                            </div>
+                            <div class="input clearfix">
+                                <label for="last_name">
+                                    <input type="text" required="true" name="last_name" placeholder="Apellido" ng-model="contact.lastName" required>
+                                </label>
+                            </div>
+                            <div class="input clearfix">
+                                <label for="email">
+                                    <input type="email" required="true" name="email" placeholder="Correo Electrónico" ng-model="contact.email" required>
+                                </label>
+                            </div>
+                            <div class="input clearfix">
+                                <label for="privacy_policy">
+                                    <input type="checkbox" required="true" name="privacy_policy" placeholder="Acepto las políticas de privacidad" value="yes" checked="checked" ng-model="contact.privacyPolicy" autocomplete="on">Acepto las políticas de privacidad.
+                                </label>
+                            </div>
+                            <div class="input clearfix" ng-if="contactForm.$valid">
+                                <input type="submit" value="Enviar" placeholder="Enviar">
+                            </div>
+                        </fieldset>
+                        <p class="response" ng-if="contact.received" ng-model="contact.response">{{contact.response}}</p>
+                    </form>
+                    <p>Indispensable presentar este cupón en la compra para hacer válida la promoción. No aplica con otras promociones y/o descuentos. Promoción válida para la compra máxima de 5 boletos y donde por lo menos uno de ellos sea de niño. No válido para fiestas infantiles, cursos, eventos especiales, grupos, escuelas. No es canjeable por dinero en efectivo. Sujeto a cupo. Válido en KidZania Santa Fe, KidZania Monterrey y KidZania Cuicuilco. Vigencia al 30 de octubre 2015.</p>
+                </div>
+            </div>
+            <img src="http://localhost:5757/img/ninos-principal-desktop_03.png" alt="www.kidzania.com" class="desktop" width="755" heigth="205">
+        </div>
+        <footer class="wrapper">
+            <div class="central clearfix">
+                <div class="middle clearfix">
+                    <p>
+                        <a href="https://www.kidzania.com/" target="_blank" title="www.kidzania.com">
+                            <img src="http://localhost:5757/img/kidzania-com.png" alt="www.kidzania.com">
+                        </a>
+                    </p>
+                    <ul class="clearfix">
+                        <li class="facebook"><a href="" target="_blank">Facebook</a></li>
+                        <li class="twitter"><a href="" target="_blank">Twitter</a></li>
+                        <li class="linkedin"><a href="" target="_blank">LinkedIn</a></li>
+                        <li class="google-plus"><a href="" target="_blank">Google Plus</a></li>
+                        <li class="pinterest"><a href="" target="_blank">Pinterest</a></li>
+                        <li class="youtube"><a href="" target="_blank">YouTube</a></li>
+                    </ul>
+                </div>
+            </div>
+            <img src="http://localhost:5757/img/ninos-principal-desktop_04.png" alt="www.kidzania.com" class="desktop" width="755" heigth="239">
+            <img src="http://localhost:5757/img/ninos-principal-tablet.png" alt="Niños jugando" class="tablet" width="745" heigth="860">
+            <img src="http://localhost:5757/img/ninos-principal-mobile.png" alt="Niños jugando" class="mobile" width="320" height="369">
+        </footer>
+        <div class="wrapper space"></div>
+        <div class="wrapper final"></div>
+        <script src="http://localhost:5757/js/main.min.js"></script>
+    </body>
+</html>
