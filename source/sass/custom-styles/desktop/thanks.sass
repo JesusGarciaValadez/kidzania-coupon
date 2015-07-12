@@ -1,0 +1,43 @@
+.middle
+    display: block
+    margin: 0 auto
+    width: 47.36328125vw // 485px
+header
+    h1
+        margin: 0 auto
+        img
+            display: block
+            margin: 15.625vw auto 2.44140625vw // 160px auto 25px
+            width: 44.7265625vw // 458px
+.title, .contact, footer,
+    background-color: $white-color
+.title
+    .middle
+        box-sizing: border-box
+        padding: 3.125vw 0 1.953125vw // 32px 0 20px
+    h2, p
+        @include font-mask( normal, 1.26953125vw, 1.2em, $helvetica, $text-color ) // 13px
+        display: block
+        margin: 0 auto
+    img
+        display: block
+        margin: 0.87890625vw auto 0 // 9px auto 0
+        width: 40.292682927vw // 349px
+footer
+    .central
+        .middle
+            margin-bottom: 4.1015625vw // 42px
+            img
+                display: block
+                margin: 0 auto 0.5859375vw // 0 auto 6px
+                width: 22.75390625vw // 233px
+            p
+                @include font-mask( normal, 2.734375vw, 1.2em, $helvetica, $input-text ) // 28px
+                margin: 0 auto
+                text-align: center
+                span
+                    color: $black-color
+    img.desktop, img.tablet, img.mobile
+        margin: 0 auto
+    img.desktop
+        width: 118.88020833vw // 913px
