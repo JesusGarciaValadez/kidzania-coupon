@@ -1213,9 +1213,9 @@ img[alt="www.kidzania.com"].desktop {
       display: block;
       float: none;
       margin: 12.5vw auto 0;
-      width: 62.1875vw; }
+      width: 199px; }
       footer .middle ul li {
-        margin: 0 0.9375vw; }
+        margin: 0 3px; }
         footer .middle ul li:first-child {
           margin-left: 0; }
         footer .middle ul li:last-child {
@@ -1224,7 +1224,7 @@ img[alt="www.kidzania.com"].desktop {
   .space, .final {
     display: none; }
 
-  img[alt="Niños jugando"].tablet {
+  img[alt="Niños jugando"].mobile {
     float: right;
     position: static; } }
 /* ==========================================================================
