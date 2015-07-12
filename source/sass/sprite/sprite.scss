@@ -1,0 +1,18 @@
+
+/* Start Sprite Master CSS */
+.facebook,.google-plus,.linkedin,.pinterest,.twitter,.youtube,.facebook_hover,.google-plus_hover,.linkedin_hover,.pinterest_hover,.twitter_hover,.youtube_hover,.checkbox_checked,.checkbox{display: inline-block;background-repeat: no-repeat;background-image: url('../img/sprite.png');}
+.facebook{background-position:0px 0px;width:28px;height:28px;}
+.google-plus{background-position:-28px 0px;width:28px;height:28px;}
+.linkedin{background-position:-56px 0px;width:28px;height:28px;}
+.pinterest{background-position:-84px 0px;width:28px;height:28px;}
+.twitter{background-position:-112px 0px;width:29px;height:28px;}
+.youtube{background-position:-141px 0px;width:28px;height:28px;}
+.facebook:hover{background-position:-169px 0px;width:28px;height:28px;}
+.google-plus:hover{background-position:-197px 0px;width:28px;height:28px;}
+.linkedin:hover{background-position:-225px 0px;width:28px;height:28px;}
+.pinterest:hover{background-position:-253px 0px;width:28px;height:28px;}
+.twitter:hover{background-position:-281px 0px;width:29px;height:28px;}
+.youtube:hover{background-position:-310px 0px;width:28px;height:28px;}
+.checkbox_checked{background-position:-338px 0px;width:11px;height:12px;}
+.checkbox{background-position:-349px 0px;width:11px;height:11px;}
+/* End Sprite Master CSS */

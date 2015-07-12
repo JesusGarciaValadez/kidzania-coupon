@@ -1,0 +1,151 @@
+header
+    h1
+        margin: 0 auto
+        img
+            display: block
+            margin: 15.609756098vw auto 2.4390243902vw
+            width: 40.292682927vw
+.title, .contact, footer
+    background-color: $white-color
+header, .title, .contact, footer
+    img[alt="www.kidzania.com"].desktop
+        bottom: 0
+        margin: 0
+        width: 73.658536585vw
+.contact, footer
+    img[alt="www.kidzania.com"].desktop
+        height: 100%
+.title
+    .middle
+        box-sizing: border-box
+        padding: 3.1219512195vw 1.756097561vw 0
+    h2, p
+        @include font-mask( normal, 1.2682926829vw, 1.2em, $helvetica, $text-color )
+        display: block
+        margin: 0 auto
+    img
+        display: block
+        margin: 0.8780487805vw auto 3.6097560976vw
+        width: 40.292682927vw
+.contact
+    form
+        display: block
+        float: left
+        margin: 0 auto
+        position: relative
+        width: 100%
+        fieldset
+            margin: 0 auto
+            width: 100%
+            .input
+                float: left
+                &:nth-child( 1 ), &:nth-child( 2 )
+                    width: 19.804878049vw
+                &:nth-child( 1 )
+                    margin: 0 0.5853658537vw 0 0
+                &:nth-child( 3 ), &:last-child
+                    width: 100%
+                label
+                    @include font-mask( normal, 1.2682926829vw, 1em, $helvetica, $text-color )
+                    float: left
+                    margin: 0 0.9756097561vw 0.5853658537vw 0
+                    width: 19.512195122vw
+                    &[for="first_name"], &[for="last_name"]
+                        float: left
+                        margin-right: 0.9756097561vw
+                        width: 100%
+                    &[for="email"]
+                        width: 100%
+                    &[for="privacy_policy"]
+                        width: 100%
+                    input[type="text"], input[type="email"]
+                        @include font-mask( normal, 1.26953125vw, 1em, $helvetica, $input-text )
+                        background-color: $input-background
+                        border: 0 none transparent
+                        box-sizing: border-box
+                        height: 2.7317073171vw
+                        margin: 0 auto
+                        padding: 0.48828125vw
+                        text-align: left
+                        width: 100%
+                        &.error, &.ng-invalid
+                            border: 1px solid red
+                        &.correct, &.ng-valid
+                            border: 1px solid green
+                    .checker
+                        float: left
+                        margin: 0 0.9756097561vw 0 0
+                        span
+                            @extend .checkbox
+                            input[type="checkbox"]
+                                opacity: 0
+                            &.checked
+                                @extend .checkbox_checked
+                                input[type="checkbox"]
+                input[type="submit"]
+                    @include font-mask( bold, 1.2682926829vw, 1em, $helvetica, $white-color )
+                    background-color: $send-background
+                    border: 0 none transparent
+                    cursor: pointer
+                    display: block
+                    float: right
+                    margin: 0 0 1.9512195122vw
+                    padding: 0.9756097561vw 2.9268292683vw
+                    &:hover
+                        background-color: $send-background-hover
+    p
+        @include font-mask( normal, 0.7804878049vw, 1.2em, $helvetica, $text-color )
+    p.response
+        @include font-mask( normal, 1.2682926829vw, 1.2em, $helvetica, $input-text )
+        clear: both
+        display: block
+        margin: 0 auto
+        width: 100%
+input[placeholder]
+    color: $input-text
+    &::-moz-placeholder,&:-moz-placeholder,&::placeholder,&:placeholder
+        color: $input-text
+footer
+    box-shadow: 0 0.1951219512vw 0.1951219512vw -0.09756097561vw $shadow
+    z-index: 1
+    .middle
+        margin: 0 0 1.9512195122vw // 20px
+        padding: 3.9024390244vw 0 14.634146341vw
+        position: relative
+        z-index: 1
+        p
+            display: inline-block
+            float: left
+            margin: 0 2.4390243902vw 0 0
+            a
+                display: block
+                margin: 0
+                width: 100%
+                img
+        ul
+            box-sizing: border-box
+            float: right
+            margin: 0
+            padding: 0
+            li
+                box-sizing: border-box
+                float: left
+                list-style: none inside
+                margin: 0 0.2926829268vw
+                padding: 0
+                &:first-child
+                    margin-left: 0
+                &:last-child
+                    margin-right: 0
+                a
+                    color: transparent
+.space
+    background-color: $space-background
+    height: 0.9756097561vw
+    z-index: 0
+.final
+    height: 9.756097561vw
+img[alt="www.kidzania.com"].desktop
+    position: absolute
+    right: 0
+    z-index: 0
