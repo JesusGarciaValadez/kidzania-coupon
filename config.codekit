@@ -11,7 +11,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/bower_components\/jquery.uniform\/demo\/demo.html": {
 		"fileType": 8192,
@@ -835,11 +835,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/css\/thanks.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/thanks.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/gateway.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/gateway.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/gracias.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gracias.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -853,7 +871,7 @@
 		"outputAbbreviatedPath": "\/img\/25-porciento-de-descuento-en-boleto-de-entrada.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/background-desktop.jpg": {
 		"fileType": 16384,
@@ -864,7 +882,7 @@
 		"outputAbbreviatedPath": "\/img\/background-desktop.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/bg_mobile.png": {
 		"fileType": 32768,
@@ -875,7 +893,7 @@
 		"outputAbbreviatedPath": "\/img\/bg_mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/bg_tablet.png": {
 		"fileType": 32768,
@@ -886,7 +904,7 @@
 		"outputAbbreviatedPath": "\/img\/bg_tablet.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/btn-enviar.png": {
 		"fileType": 32768,
@@ -897,7 +915,7 @@
 		"outputAbbreviatedPath": "\/img\/btn-enviar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/checkbox.png": {
 		"fileType": 32768,
@@ -908,7 +926,7 @@
 		"outputAbbreviatedPath": "\/img\/checkbox.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/checkbox_checked.png": {
 		"fileType": 32768,
@@ -919,7 +937,7 @@
 		"outputAbbreviatedPath": "\/img\/checkbox_checked.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/facebook.png": {
 		"fileType": 32768,
@@ -930,7 +948,7 @@
 		"outputAbbreviatedPath": "\/img\/facebook.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/facebook_hover.png": {
 		"fileType": 32768,
@@ -941,7 +959,7 @@
 		"outputAbbreviatedPath": "\/img\/facebook_hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/google-plus.png": {
 		"fileType": 32768,
@@ -952,7 +970,7 @@
 		"outputAbbreviatedPath": "\/img\/google-plus.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/google-plus_hover.png": {
 		"fileType": 32768,
@@ -963,7 +981,7 @@
 		"outputAbbreviatedPath": "\/img\/google-plus_hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kidnania-estas-vacaciones-hay-que-vivirlas-a-lo-grande.png": {
 		"fileType": 32768,
@@ -974,7 +992,7 @@
 		"outputAbbreviatedPath": "\/img\/kidnania-estas-vacaciones-hay-que-vivirlas-a-lo-grande.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kidzania-com.png": {
 		"fileType": 32768,
@@ -985,7 +1003,7 @@
 		"outputAbbreviatedPath": "\/img\/kidzania-com.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kidzania-estas-muy-cerca-de-divertirte-a-lo-grande.png": {
 		"fileType": 32768,
@@ -996,7 +1014,7 @@
 		"outputAbbreviatedPath": "\/img\/kidzania-estas-muy-cerca-de-divertirte-a-lo-grande.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kidzania-logo.png": {
 		"fileType": 32768,
@@ -1007,7 +1025,7 @@
 		"outputAbbreviatedPath": "\/img\/kidzania-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linkedin.png": {
 		"fileType": 32768,
@@ -1018,7 +1036,7 @@
 		"outputAbbreviatedPath": "\/img\/linkedin.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linkedin_hover.png": {
 		"fileType": 32768,
@@ -1029,7 +1047,7 @@
 		"outputAbbreviatedPath": "\/img\/linkedin_hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-gracias-desktop.png": {
 		"fileType": 32768,
@@ -1040,7 +1058,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-gracias-desktop.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-gracias-mobile.png": {
 		"fileType": 32768,
@@ -1051,7 +1069,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-gracias-mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-gracias-tablet.png": {
 		"fileType": 32768,
@@ -1062,7 +1080,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-gracias-tablet.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-principal-desktop.png": {
 		"fileType": 32768,
@@ -1073,7 +1091,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-principal-desktop.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-principal-desktop_01.png": {
 		"fileType": 32768,
@@ -1084,7 +1102,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-principal-desktop_01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-principal-desktop_02.png": {
 		"fileType": 32768,
@@ -1095,7 +1113,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-principal-desktop_02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-principal-desktop_03.png": {
 		"fileType": 32768,
@@ -1106,7 +1124,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-principal-desktop_03.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-principal-desktop_04.png": {
 		"fileType": 32768,
@@ -1117,7 +1135,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-principal-desktop_04.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-principal-mobile.png": {
 		"fileType": 32768,
@@ -1128,7 +1146,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-principal-mobile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ninos-principal-tablet.png": {
 		"fileType": 32768,
@@ -1139,7 +1157,7 @@
 		"outputAbbreviatedPath": "\/img\/ninos-principal-tablet.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/pinterest.png": {
 		"fileType": 32768,
@@ -1150,7 +1168,7 @@
 		"outputAbbreviatedPath": "\/img\/pinterest.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/pinterest_hover.png": {
 		"fileType": 32768,
@@ -1161,7 +1179,7 @@
 		"outputAbbreviatedPath": "\/img\/pinterest_hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/sprite.png": {
 		"fileType": 32768,
@@ -1172,7 +1190,7 @@
 		"outputAbbreviatedPath": "\/img\/sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/sprite_btns.png": {
 		"fileType": 32768,
@@ -1183,7 +1201,7 @@
 		"outputAbbreviatedPath": "\/img\/sprite_btns.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/twitter.png": {
 		"fileType": 32768,
@@ -1194,7 +1212,7 @@
 		"outputAbbreviatedPath": "\/img\/twitter.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/twitter_hover.png": {
 		"fileType": 32768,
@@ -1205,7 +1223,7 @@
 		"outputAbbreviatedPath": "\/img\/twitter_hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/youtube.png": {
 		"fileType": 32768,
@@ -1216,7 +1234,7 @@
 		"outputAbbreviatedPath": "\/img\/youtube.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/youtube_hover.png": {
 		"fileType": 32768,
@@ -1227,7 +1245,7 @@
 		"outputAbbreviatedPath": "\/img\/youtube_hover.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -1564,6 +1582,15 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/source\/kit\/close.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/kit\/close.kit",
+		"outputAbbreviatedPath": "\/close.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/source\/kit\/contact.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1573,12 +1600,30 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/source\/kit\/cupon.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/kit\/cupon.kit",
+		"outputAbbreviatedPath": "\/cupon.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/source\/kit\/footer.kit": {
 		"fileType": 2048,
 		"ignore": 1,
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/source\/kit\/footer.kit",
 		"outputAbbreviatedPath": "\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/source\/kit\/gracias.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/kit\/gracias.kit",
+		"outputAbbreviatedPath": "\/gracias.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -1609,6 +1654,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/source\/kit\/print.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/kit\/print.kit",
+		"outputAbbreviatedPath": "\/print.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/source\/kit\/scripts.kit": {
 		"fileType": 2048,
 		"ignore": 1,
@@ -1632,10 +1686,26 @@
 		"debugStyle": 0,
 		"decimalPrecision": 10,
 		"fileType": 2,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/source\/sass\/custom-styles\/desktop\/home.sass",
 		"outputAbbreviatedPath": "\/css\/home.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/source\/sass\/custom-styles\/desktop\/thanks.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/sass\/custom-styles\/desktop\/thanks.sass",
+		"outputAbbreviatedPath": "\/css\/thanks.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1659,6 +1729,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": false
 		},
+	"\/source\/sass\/custom-styles\/mobile\/thanks.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/sass\/custom-styles\/mobile\/thanks.sass",
+		"outputAbbreviatedPath": "\/css\/thanks.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
 	"\/source\/sass\/custom-styles\/tablet\/home.sass": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1668,6 +1754,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/source\/sass\/custom-styles\/tablet\/home.sass",
 		"outputAbbreviatedPath": "\/css\/home.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
+	"\/source\/sass\/custom-styles\/tablet\/thanks.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/sass\/custom-styles\/tablet\/thanks.sass",
+		"outputAbbreviatedPath": "\/css\/thanks.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -3003,6 +3105,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/source\/sass\/thanks.sass": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 2,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/sass\/thanks.sass",
+		"outputAbbreviatedPath": "\/css\/thanks.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": false
+		},
 	"\/tile-wide.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3012,7 +3130,7 @@
 		"outputAbbreviatedPath": "\/tile-wide.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/tile.png": {
 		"fileType": 32768,
@@ -3023,7 +3141,7 @@
 		"outputAbbreviatedPath": "\/tile.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		}
 	},
 "hooks": [
