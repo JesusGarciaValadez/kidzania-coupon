@@ -87,16 +87,20 @@ header, .title, .contact, footer
                 input[type="submit"]
                     @include font-mask( bold, 1.2682926829vw, 1em, $helvetica, $white-color )
                     background-color: $send-background
-                    border: 0 none transparent
+                    border: 1px solid $input-text
+                    box-sizing: border-box
                     cursor: pointer
                     display: block
                     float: right
                     margin: 0 0 1.9512195122vw
                     padding: 0.9756097561vw 2.9268292683vw
                     &:hover
-                        background-color: $send-background-hover
+                        background-color: $white-color
+                        color: $input-text
     p
         @include font-mask( normal, 0.7804878049vw, 1.2em, $helvetica, $text-color )
+        a
+            color: $input-text
     p.response
         @include font-mask( normal, 1.2682926829vw, 1.2em, $helvetica, $input-text )
         clear: both
@@ -141,6 +145,17 @@ footer
                     margin-right: 0
                 a
                     color: transparent
+            &:last-child
+                clear: both
+                float: left
+                li
+                    color: $input-text
+                    list-style: disc inside
+                    &:first-child
+                        list-style: none inside
+                    a
+                        @include font-mask( normal, em( 11, 16 ), 1.2em, $helvetica, $input-text )
+                        text-decoration: none
 .space
     background-color: $space-background
     height: 0.9756097561vw

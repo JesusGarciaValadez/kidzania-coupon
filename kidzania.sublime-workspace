@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"value",
+				"values"
+			],
+			[
 				"marg",
 				"margin-bottom"
 			],
@@ -423,19 +427,26 @@
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/chunks",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles"
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB"
 	],
 	"file_history":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Contact.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/config.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB/database.sql",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Model.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Validator.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/contact.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/db/connection.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/cupon.kit",
@@ -445,14 +456,12 @@
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_colors.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/thanks.sass",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/footer.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general_mobile.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general_tablet.sass",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/contact.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite/sprite.scss",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/javascript/main.js",
@@ -554,15 +563,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/sass/_colors.sass",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/tu-mochila.sass",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/scotia/falta-de-pago-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/scotia/cancelacion-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/cancelacion-agradecimiento/cancelacion-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/visita-al-dentista.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/estrategia-ganadora.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/mundo-del-deporte.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/primeros-dientes.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/scripts.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/dolor-muscular.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/primer-bebe.kit"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/scotia/cancelacion-1.html"
 	],
 	"find":
 	{
@@ -583,6 +584,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"var_dump",
+			"Kidzania. Estás muy cerca de divertirte a lo grande",
 			"1.953125",
 			"color",
 			"    '",
@@ -708,9 +711,7 @@
 			"css/",
 			"343",
 			"600",
-			"<tr width=\"600\" border=\"0\">\n                                                    <td colspan=\"2\" width=\"580\" align=\"center\" valign=\"bottom\" border=\"0\" style=\"padding: 0 10px;\">\n\n                                                    </td>\n                                                </tr>",
-			"580",
-			"src=\"img/"
+			"<tr width=\"600\" border=\"0\">\n                                                    <td colspan=\"2\" width=\"580\" align=\"center\" valign=\"bottom\" border=\"0\" style=\"padding: 0 10px;\">\n\n                                                    </td>\n                                                </tr>"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -795,6 +796,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"controller",
+				"snippets/controller.php"
+			],
+			[
+				"gate",
+				"gateway.php"
+			],
 			[
 				"_col",
 				"source/sass/default-styles/_colors.sass"

@@ -723,7 +723,7 @@ img {
   display: none; }
 
 /* Start Sprite Master CSS */
-.facebook, .google-plus, .linkedin, .pinterest, .twitter, .youtube, .facebook_hover, .google-plus_hover, .linkedin_hover, .pinterest_hover, .twitter_hover, .youtube_hover, .checkbox_checked, .checkbox {
+.facebook, .google-plus, .linkedin, .pinterest, .twitter, .youtube, .facebook_hover, .google-plus_hover, .linkedin_hover, .pinterest_hover, .twitter_hover, .youtube_hover, .checkbox_checked, .checkbox, .instagram_hover, .instagram {
   display: inline-block;
   background-repeat: no-repeat;
   background-image: url("../img/sprite.png"); }
@@ -797,6 +797,16 @@ img {
   background-position: -349px 0px;
   width: 11px;
   height: 11px; }
+
+.instagram:hover {
+  background-position: -360px 0px;
+  width: 29px;
+  height: 29px; }
+
+.instagram {
+  background-position: -389px 0px;
+  width: 29px;
+  height: 30px; }
 
 /* End Sprite Master CSS */
 .middle {

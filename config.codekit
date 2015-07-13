@@ -858,6 +858,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/instagram.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1590,
+		"inputAbbreviatedPath": "\/img\/instagram.png",
+		"outputAbbreviatedPath": "\/img\/instagram.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/instagram_hover.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1526,
+		"inputAbbreviatedPath": "\/img\/instagram_hover.png",
+		"outputAbbreviatedPath": "\/img\/instagram_hover.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/img\/kidnania-estas-vacaciones-hay-que-vivirlas-a-lo-grande.png": {
 		"fileType": 32768,
 		"ignore": 0,

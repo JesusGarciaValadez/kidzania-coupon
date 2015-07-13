@@ -721,7 +721,7 @@ img {
   display: none; }
 
 /* Start Sprite Master CSS */
-.facebook, .google-plus, .linkedin, .pinterest, .twitter, .youtube, .facebook_hover, .google-plus_hover, .linkedin_hover, .pinterest_hover, .twitter_hover, .youtube_hover, .checkbox_checked, .contact form fieldset .input label .checker span.checked, .checkbox, .contact form fieldset .input label .checker span {
+.facebook, .google-plus, .linkedin, .pinterest, .twitter, .youtube, .facebook_hover, .google-plus_hover, .linkedin_hover, .pinterest_hover, .twitter_hover, .youtube_hover, .checkbox_checked, .contact form fieldset .input label .checker span.checked, .checkbox, .contact form fieldset .input label .checker span, .instagram_hover, .instagram {
   display: inline-block;
   background-repeat: no-repeat;
   background-image: url("../img/sprite.png"); }
@@ -795,6 +795,16 @@ img {
   background-position: -349px 0px;
   width: 11px;
   height: 11px; }
+
+.instagram:hover {
+  background-position: -360px 0px;
+  width: 29px;
+  height: 29px; }
+
+.instagram {
+  background-position: -389px 0px;
+  width: 29px;
+  height: 30px; }
 
 /* End Sprite Master CSS */
 .middle {
@@ -898,20 +908,24 @@ header img[alt="www.kidzania.com"].desktop, .title img[alt="www.kidzania.com"].d
         font-weight: bold;
         line-height: 1em;
         background-color: #B7003C;
-        border: 0 none transparent;
+        border: 1px solid #9F003B;
+        box-sizing: border-box;
         cursor: pointer;
         display: block;
         float: right;
         margin: 0 0 1.9512195122vw;
         padding: 0.9756097561vw 2.9268292683vw; }
         .contact form fieldset .input input[type="submit"]:hover {
-          background-color: #C80042; }
+          background-color: #FFF;
+          color: #9F003B; }
 .contact p {
   color: #999;
   font-family: Helvetica, Arial, "sans-serif";
   font-size: 0.7804878049vw;
   font-weight: normal;
   line-height: 1.2em; }
+  .contact p a {
+    color: #9F003B; }
 .contact p.response {
   color: #9F003B;
   font-family: Helvetica, Arial, "sans-serif";
@@ -963,6 +977,21 @@ footer {
           margin-right: 0; }
         footer .middle ul li a {
           color: transparent; }
+      footer .middle ul:last-child {
+        clear: both;
+        float: left; }
+        footer .middle ul:last-child li {
+          color: #9F003B;
+          list-style: disc inside; }
+          footer .middle ul:last-child li:first-child {
+            list-style: none inside; }
+          footer .middle ul:last-child li a {
+            color: #9F003B;
+            font-family: Helvetica, Arial, "sans-serif";
+            font-size: 0.6875em;
+            font-weight: normal;
+            line-height: 1.2em;
+            text-decoration: none; }
 
 .space {
   background-color: #D9D9D9;
@@ -1213,13 +1242,17 @@ img[alt="www.kidzania.com"].desktop {
       display: block;
       float: none;
       margin: 12.5vw auto 0;
-      width: 199px; }
+      width: 135px; }
       footer .middle ul li {
         margin: 0 3px; }
         footer .middle ul li:first-child {
           margin-left: 0; }
         footer .middle ul li:last-child {
           margin-right: 0; }
+      footer .middle ul:last-child {
+        float: none;
+        margin: 0.5em auto;
+        width: 175px; }
 
   .space, .final {
     display: none; }
