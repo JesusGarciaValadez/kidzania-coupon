@@ -45,7 +45,7 @@
         <div class="wrapper contact">
             <div class="central">
                 <div class="middle">
-                    <form name="contactForm" action="gateway.php" method="POST" novalidate ng-if="!contact.received" ng-submit="contactForm.$valid" ng-controller="ContactController as contact">
+                    <form name="contactForm" action="gateway.php?action=contact" method="POST" novalidate ng-if="!contact.received" ng-submit="contactForm.$valid" ng-controller="ContactController as contact">
                         <fieldset class="clearfix">
                             <div class="input clearfix">
                                 <label for="first_name">

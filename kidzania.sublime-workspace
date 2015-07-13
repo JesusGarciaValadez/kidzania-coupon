@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fo",
+				"footer"
+			],
+			[
+				"text",
+				"text-color"
+			],
+			[
 				"date_time",
 				"date_timezone_set"
 			],
@@ -118,10 +130,6 @@
 			[
 				"box-s",
 				"box-sizing"
-			],
-			[
-				"text",
-				"text-align"
 			],
 			[
 				"user",
@@ -243,7 +251,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 186.0,
+		"height": 400.0,
 		"last_filter": "wrap",
 		"selected_items":
 		[
@@ -392,7 +400,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 475.0
+		"width": 457.0
 	},
 	"console":
 	{
@@ -413,10 +421,48 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs/kidzania-coupon"
+		"/Applications/MAMP/htdocs/kidzania-coupon",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/chunks",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/cupon.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/thanks.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet/thanks.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_colors.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/thanks.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/footer.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general_mobile.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general_tablet.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/contact.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite/sprite.scss",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/javascript/main.js",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/javascript/plugins.js",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/javascript/vendor/jquery.uniform.js",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/title.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/main.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_typographys.scss",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/head.kit",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/source/kit/contact.kit",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/source/javascript/main.js",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/snippets/controller.php",
@@ -516,35 +562,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/primeros-dientes.html",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/scripts.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/dolor-muscular.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/primer-bebe.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/tu-mochila.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/head.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/leche-materna.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/css/estrategia-ganadora.css",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/mas-enfermeras/mas-enfermeras.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/tu-mochila.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/vida-tiendas/agentes-6.html",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/landings-salud/landings-1-4.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/cancelacion-agradecimiento/clientes-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/dolor-muscular.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/leche-materna.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/primer-bebe.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/default-styles/_general.sass",
-		"/Applications/MAMP/htdocs/anpasa-new/Code/chunks/projectThumbnail.html",
-		"/Applications/MAMP/htdocs/anpasa-new/assets/templates/anpasa/css/catalogo.css",
-		"/Users/jgarcia/Downloads/mas_enfermeras_v2/mas_enfermeras_v2.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/vida-tiendas/agentes-5.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/seguro-casa-habitacion/clientes.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/juntos-por-una-movilidad-segura/clientes-1.html",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/Default (OSX).sublime-keymap",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/vida-tiendas/clientes-3.html",
-		"/Applications/MAMP/htdocs/boletin_axa/vida-tiendas/index-3.php"
+		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/primer-bebe.kit"
 	],
 	"find":
 	{
@@ -565,6 +583,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"1.953125",
+			"color",
 			"    '",
 			"=> [",
 			"\"",
@@ -690,9 +710,7 @@
 			"600",
 			"<tr width=\"600\" border=\"0\">\n                                                    <td colspan=\"2\" width=\"580\" align=\"center\" valign=\"bottom\" border=\"0\" style=\"padding: 0 10px;\">\n\n                                                    </td>\n                                                </tr>",
 			"580",
-			"src=\"img/",
-			"super",
-			"strong"
+			"src=\"img/"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -777,6 +795,30 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"_col",
+				"source/sass/default-styles/_colors.sass"
+			],
+			[
+				"_color",
+				"source/sass/default-styles/_colors.sass"
+			],
+			[
+				"footer",
+				"source/kit/footer.kit"
+			],
+			[
+				"header.kit",
+				"source/kit/header.kit"
+			],
+			[
+				"color",
+				"source/sass/default-styles/_colors.sass"
+			],
+			[
+				"title",
+				"source/kit/title.kit"
+			],
 			[
 				"axa-touch-salud/landing/source/sass/default-styles/_colors.sass",
 				"axa-touch-salud/landings/source/sass/default-styles/_colors.sass"
