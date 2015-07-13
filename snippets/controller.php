@@ -42,8 +42,8 @@ if ( !empty( $action ) )
                             ];
                 $config = Common::getConfig();
 
-                $contact   = new Contact( $dbh, $config['database']['bd_table'] );
-                $contact->setTemplate( "email.tpl" );
+                $contact   = new Contact( $dbh, $config['database']['db_table'] );
+                $contact->setTemplate( "share.tpl" );
                 $contact->setSubject( "Kidzania. Estás muy cerca de divertirte a lo grande" );
                 $contact->setCorreo( "jesus.garciav@me.com" );
                 $contact->setCC( $cc );

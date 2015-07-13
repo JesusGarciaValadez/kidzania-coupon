@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"inpu",
+				"input-text"
+			],
+			[
 				"value",
 				"values"
 			],
@@ -247,6 +251,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/sass/custom-styles/desktop/home.sass",
+			"settings":
+			{
+				"buffer_size": 5754,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -426,16 +438,23 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/chunks",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB"
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite/sprite.css",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/contact.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/footer.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/main.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite/sprite.scss",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Contact.php",
@@ -444,32 +463,26 @@
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB/database.sql",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Model.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Validator.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/contact.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/db/connection.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/cupon.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_colors.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/thanks.sass",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/footer.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general_mobile.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general_tablet.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite/sprite.scss",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/javascript/main.js",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/javascript/plugins.js",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/javascript/vendor/jquery.uniform.js",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/title.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/main.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_typographys.scss",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/head.kit",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/source/kit/contact.kit",
@@ -562,8 +575,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/investigar-por-internet.sass",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/sass/_colors.sass",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/tu-mochila.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/scotia/falta-de-pago-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/scotia/cancelacion-1.html"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/scotia/falta-de-pago-1.html"
 	],
 	"find":
 	{
@@ -739,8 +751,41 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/sass/custom-styles/desktop/home.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5137,
+								5137
+							]
+						],
+						"settings":
+						{
+							"apply_syntax_touched": true,
+							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2183.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -851,7 +896,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/boletin-axa-prevencion-360/source/sass/prevencion-360.sublime-project"
+				"/Applications/MAMP/htdocs/boletin_axa/boletin-axa.sublime-project"
 			],
 			[
 				"boletin",
