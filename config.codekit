@@ -126,6 +126,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/email\/25-porciento-de-descuento-en-boleto-de-entrada.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 27531,
+		"inputAbbreviatedPath": "\/img\/email\/25-porciento-de-descuento-en-boleto-de-entrada.jpg",
+		"outputAbbreviatedPath": "\/img\/email\/25-porciento-de-descuento-en-boleto-de-entrada.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/email\/estas-vacaciones-en-kidzania-te-estamos-esperando.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81772,
+		"inputAbbreviatedPath": "\/img\/email\/estas-vacaciones-en-kidzania-te-estamos-esperando.jpg",
+		"outputAbbreviatedPath": "\/img\/email\/estas-vacaciones-en-kidzania-te-estamos-esperando.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/email\/kidzania.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3532,
+		"inputAbbreviatedPath": "\/img\/email\/kidzania.png",
+		"outputAbbreviatedPath": "\/img\/email\/kidzania.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/email\/Mailing_Mockup_Kidzania.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 415516,
+		"inputAbbreviatedPath": "\/img\/email\/Mailing_Mockup_Kidzania.jpg",
+		"outputAbbreviatedPath": "\/img\/email\/Mailing_Mockup_Kidzania.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/email\/ninios.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 464422,
+		"inputAbbreviatedPath": "\/img\/email\/ninios.png",
+		"outputAbbreviatedPath": "\/img\/email\/ninios.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/facebook.png": {
 		"fileType": 32768,
 		"ignore": 0,

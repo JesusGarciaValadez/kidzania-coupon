@@ -782,44 +782,44 @@ img {
 .middle {
   display: block;
   margin: 0 auto;
-  width: 47.36328125vw; }
+  width: 485px; }
 
 header h1 {
   margin: 0 auto; }
   header h1 img {
     display: block;
-    margin: 15.625vw auto 2.44140625vw;
-    width: 44.7265625vw; }
+    margin: 160px auto 25px;
+    width: 913px; }
 
 .title, .contact, footer {
   background-color: #FFF; }
 
 .title .middle {
   box-sizing: border-box;
-  padding: 3.125vw 0 1.953125vw; }
+  padding: 32px 0 20px; }
 .title h2, .title p {
   color: #999;
   font-family: Helvetica, Arial, "sans-serif";
-  font-size: 1.26953125vw;
+  font-size: 13px;
   font-weight: normal;
   line-height: 1.2em;
   display: block;
   margin: 0 auto; }
 .title img {
   display: block;
-  margin: 0.87890625vw auto 0;
-  width: 40.292682927vw; }
+  margin: 9px auto 0;
+  width: 349px; }
 
 footer .central .middle {
-  margin-bottom: 4.1015625vw; }
+  margin-bottom: 42px; }
   footer .central .middle img {
     display: block;
-    margin: 0 auto 0.5859375vw;
-    width: 22.75390625vw; }
+    margin: 0 auto 6px;
+    width: 233px; }
   footer .central .middle p {
     color: #9F003B;
     font-family: Helvetica, Arial, "sans-serif";
-    font-size: 2.734375vw;
+    font-size: 28px;
     font-weight: normal;
     line-height: 1.2em;
     margin: 0 auto;
@@ -829,7 +829,7 @@ footer .central .middle {
 footer img.desktop, footer img.tablet, footer img.mobile {
   margin: 0 auto; }
 footer img.desktop {
-  width: 89.16015625vw; }
+  width: 913px; }
 
 /* Image replacement
  */

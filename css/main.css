@@ -886,7 +886,7 @@ header img[alt="www.kidzania.com"].desktop, .title img[alt="www.kidzania.com"].d
         display: block;
         float: right;
         margin: 0 0 20px;
-        padding: 30px 20px; }
+        padding: 10px 30px; }
         .contact form fieldset .input input[type="submit"]:hover {
           background-color: #FFF;
           color: #9F003B; }
