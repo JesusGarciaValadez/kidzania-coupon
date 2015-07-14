@@ -251,14 +251,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "source/sass/custom-styles/desktop/home.sass",
-			"settings":
-			{
-				"buffer_size": 5754,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -268,9 +260,13 @@
 	"command_palette":
 	{
 		"height": 400.0,
-		"last_filter": "wrap",
+		"last_filter": "wra",
 		"selected_items":
 		[
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
 			[
 				"wrap",
 				"Word Wrap: Toggle"
@@ -334,10 +330,6 @@
 			[
 				"imag",
 				"Emmet: Update Image Size"
-			],
-			[
-				"wra",
-				"Word Wrap: Toggle"
 			],
 			[
 				"remove",
@@ -438,9 +430,11 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/db",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/chunks",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile",
@@ -448,28 +442,30 @@
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/share.tpl",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_colors.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
+		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/config.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Common.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/db/connection.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite/sprite.css",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/contact.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/footer.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/main.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/sprite/sprite.scss",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Contact.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/config.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB/database.sql",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Model.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/Validator.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/db/connection.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/cupon.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/tablet/thanks.sass",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_colors.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
@@ -573,9 +569,7 @@
 		"/Users/jgarcia/Downloads/Index_RD.html",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/pilates.sass",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/investigar-por-internet.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/sass/_colors.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/tu-mochila.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/scotia/falta-de-pago-1.html"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/sass/_colors.sass"
 	],
 	"find":
 	{
@@ -751,41 +745,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "source/sass/custom-styles/desktop/home.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5754,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5137,
-								5137
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"color_scheme": "Packages/User/Color Highlighter/themes/itg.dark.tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2183.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -921,7 +882,7 @@
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 263.0,
 	"status_bar_visible": true,
 	"template_settings":
