@@ -7,10 +7,10 @@ if ( !empty( $action ) )
         switch ( $action )
         {
             case 'contact':
-                $data[ "first_name" ]       = trim( $_POST[ 'first_name' ] );
-                $data[ "last_name" ]        = trim( $_POST[ 'last_name' ] );
-                $data[ "email" ]            = trim( $_POST[ 'email' ] );
-                $data[ "privacy_policy" ]   = trim( $_POST[ 'privacy_policy' ] );
+                $data[ "first_name" ]       = stripslashes ( strip_tags( trim( $_POST[ 'first_name' ] ) ) );
+                $data[ "last_name" ]        = stripslashes ( strip_tags( trim( $_POST[ 'last_name' ] ) ) );
+                $data[ "email" ]            = stripslashes ( strip_tags( trim( $_POST[ 'email' ] ) ) );
+                $data[ "privacy_policy" ]   = stripslashes ( strip_tags( trim( $_POST[ 'privacy_policy' ] ) ) );
 
                 /*
                 $cc = array(
@@ -42,16 +42,17 @@ if ( !empty( $action ) )
                             ];
                 $config = Common::getConfig();
 
-                $contact   = new Contact( $dbh, $config['database']['db_table'] );
-                $contact->setTemplate( "share.tpl" );
-                $contact->setSubject( "Kidzania. Estás muy cerca de divertirte a lo grande" );
-                $contact->setCorreo( "jesus.garciav@me.com" );
-                $contact->setCC( $cc );
 
                 $formValidated  = new Validator( $data, $rules );
                 if ( $formValidated->validate() )
                 {
                     $data[ "date_answer" ]      = date( "Y-m-d H:i:s" );
+
+                    $contact   = new Contact( $dbh, $config['database']['db_table'] );
+                    $contact->setTemplate( "share.tpl" );
+                    $contact->setSubject( "El Verano está en KidZania. Visítanos" );
+                    $contact->setCorreo( $data[ "email" ] );
+                    $contact->setCC( $cc );
 
                     $contact->setInfo( $data );
                     $userSaved    = $contact->insertInfo( $formValidated );

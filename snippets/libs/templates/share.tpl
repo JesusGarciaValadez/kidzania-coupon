@@ -163,7 +163,6 @@
             <tr width="600" border="0">
                 <td scope="row" width="600" align="center" valign="middle" border="0" class="legales">
                     <p class="legales" scope="row" width="600">Indispensable presentar este cupón en la compra para hacer válida la promoción. No aplica con otras promociones y/o descuentos. Promoción válida para la compra máxima de 5 boletos y donde por lo menos uno de ellos sea de niño. No válido para fiestas infantiles, cursos, eventos especiales, grupos, escuelas. No es canjeable por dinero en efectivo. Sujeto a cupo. Válido en KidZania Santa Fe, KidZania Monterrey y KidZania Cuicuilco. Vigencia al 30 de octubre 2015.</p>
-                    <p class="legales" scope="row" width="600">Este mensaje fue enviado a *|EMAIL|*. Si no eres el usuario o si deseas ser borrado de nuestro listado de envíos sólo haz clic <a href="*|UNSUB|*">aquí.</a></p>
                 </td>
             </tr><!-- Legales -->
         </table>
