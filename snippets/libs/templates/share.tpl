@@ -1,7 +1,7 @@
-<!DOCTYPE html>[+email+]
+<!DOCTYPE html>
 <html>
     <head>
-        <title>Estas vacaciones de verano en Kidzania, te estamos esperando.</title>
+        <title>El Verano está en KidZania. Visítanos</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <style>
             <!--
@@ -124,45 +124,40 @@
         </style>
     </head>
     <body>
-        <table border="0" cellpadding="0" cellspacing="0" style="display:block;margin:0 auto;" width="600">
-            <tr width="600" border="0">
-                <td width="600" align="left" valign="middle" border="0">
-                    <img src="http://localhost/kidzania-coupon/img/email/libro.png" alt="Estas vacaciones de verano en Kidzania te estamos esperando" width="600" class="image" align="center" valign="middle" />
+        <table border="0" cellpadding="0" cellspacing="0" style="display:block;margin:0 auto;" width="650">
+            <tr width="650" border="0">
+                <td width="650" align="left" valign="middle" border="0">
+                    <img src="http://localhost/kidzania-coupon/img/email/estas-vacaciones-en-kidzania-te-estamos-esperando.jpg" alt="Estas vacaciones de verano en Kidzania te estamos esperando" width="650" height="300" class="image" align="center" valign="middle" />
                 </td>
             </tr><!-- Estas vacaciones de verano en Kidzania te estamos esperando -->
-            <tr width="600" border="0">
-                <td width="600" align="left" valign="middle" border="0">
-                    <img src="http://localhost/kidzania-coupon/img/email/libro.png" alt="Visítanos del 13 de julio al 23 de agosto. Estás muy cerca de divertirte a lo grande." width="600" class="image" align="center" valign="middle" />
-                </td>
-            </tr><!-- Visítanos del 13 de julio al 23 de agosto. Estás muy cerca de divertirte a lo grande. -->
-            <tr width="600" border="0">
-                <td width="560" align="center" valign="middle" border="0" style="padding: 0 20px;">
-                    <p class="text_gray left align_left" align="left" valign="middle" style="font-size:13px; line-height:1; width:560px">Imprime o presenta este cupón en la entrada de Kidzania y haz válido tu descuento.</p>
+            <tr width="650" border="0">
+                <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
+                    <p class="text_gray centered align_left" align="center" valign="middle" style="font-size:13px; line-height:1; width:610px">Imprime o presenta este cupón en la entrada de Kidzania y haz válido tu descuento.</p>
                 </td>
             </tr><!-- Imprime o presenta este cupón en la entrada de Kidzania y haz válido tu descuento -->
-            <tr width="600" border="0">
-                <td width="600" align="center" valign="middle" border="0" style="">
-                    <img src="http://localhost/kidzania-coupon/img/email/libro.png" alt="25% de descuento en boletos de entrada." width="600" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
+            <tr width="650" border="0">
+                <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
+                    <img src="http://localhost/kidzania-coupon/img/email/25-porciento-de-descuento-en-boleto-de-entrada.jpg" alt="25% de descuento en boletos de entrada." width="349" height="64" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
                 </td>
             </tr><!-- 25% de descuento en boletos de entrada -->
-            <tr width="600" border="0">
-                <td width="600" align="center" valign="middle" border="0">
-                    <img src="http://localhost/kidzania-coupon/img/email/libro.png" alt="Kidzania" width="600" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
+            <tr width="650" border="0">
+                <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
+                    <img src="http://localhost/kidzania-coupon/img/email/kidzania.png" alt="Kidzania" width="219" height="47" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
                 </td>
             </tr><!-- Kidzania -->
-            <tr width="600" border="0">
-                <td width="600" align="center" valign="middle" border="0" style="padding: 0 20px;">
+            <tr width="650" border="0">
+                <td width="650" align="center" valign="middle" border="0" style="padding: 0 20px;">
                     <p class="text_gray centered" align="center" valign="middle" style="font-size:25px; line-height:1; width: 300px;"><b class="bold text_kidzania">Código: </b>KD00921</p>
                 </td>
             </tr><!-- Código -->
-            <tr width="600" border="0">
-                <td width="600" align="center" valign="middle" border="0">
-                    <img src="http://localhost/kidzania-coupon/img/email/libro.png" alt="Niños" width="600" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
+            <tr width="650" border="0">
+                <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
+                    <img src="http://localhost/kidzania-coupon/img/email/ninios.png" alt="Niños" width="650" height="354" class="image" align="center" valign="middle" style="display: block; margin: 0 auto;" />
                 </td>
             </tr><!-- Niños -->
-            <tr width="600" border="0">
-                <td scope="row" width="600" align="center" valign="middle" border="0" class="legales">
-                    <p class="legales" scope="row" width="600">Indispensable presentar este cupón en la compra para hacer válida la promoción. No aplica con otras promociones y/o descuentos. Promoción válida para la compra máxima de 5 boletos y donde por lo menos uno de ellos sea de niño. No válido para fiestas infantiles, cursos, eventos especiales, grupos, escuelas. No es canjeable por dinero en efectivo. Sujeto a cupo. Válido en KidZania Santa Fe, KidZania Monterrey y KidZania Cuicuilco. Vigencia al 30 de octubre 2015.</p>
+            <tr width="650" border="0">
+                <td scope="row" width="650" align="center" valign="middle" border="0" class="legales">
+                    <p class="legales" scope="row" width="650">Indispensable presentar este cupón en la compra para hacer válida la promoción. No aplica con otras promociones y/o descuentos. Promoción válida para la compra máxima de 5 boletos y donde por lo menos uno de ellos sea de niño. No válido para fiestas infantiles, cursos, eventos especiales, grupos, escuelas. No es canjeable por dinero en efectivo. Sujeto a cupo. Válido en KidZania Santa Fe, KidZania Monterrey y KidZania Cuicuilco. Vigencia al 30 de octubre 2015.</p>
                 </td>
             </tr><!-- Legales -->
         </table>
