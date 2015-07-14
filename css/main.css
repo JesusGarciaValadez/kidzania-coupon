@@ -783,10 +783,11 @@ img {
 header h1 {
   margin: 0 auto; }
   header h1 img {
-    bottom: 8px;
     display: block;
     margin: 160px auto 25px;
     width: 100%; }
+header img[alt="www.kidzania.com"].desktop {
+  bottom: 8px !important; }
 
 .title, .contact, footer {
   background-color: #FFF; }
@@ -827,7 +828,7 @@ header img[alt="www.kidzania.com"].desktop, .title img[alt="www.kidzania.com"].d
     .contact form fieldset .input {
       float: left; }
       .contact form fieldset .input:nth-child(1), .contact form fieldset .input:nth-child(2) {
-        width: 185.5px; }
+        width: 178px; }
       .contact form fieldset .input:nth-child(1) {
         margin: 0 6px 0 0; }
       .contact form fieldset .input:nth-child(3), .contact form fieldset .input:last-child {
