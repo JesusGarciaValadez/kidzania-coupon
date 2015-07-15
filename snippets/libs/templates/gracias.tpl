@@ -2,10 +2,10 @@
 <!doctype html>
 <html class="no-js" lang="es" ng-app="KidzaniaApp">
     <head>
-        <title>KidZania. Estás muy cerca de divertirte a lo grande.</title>
+        <title>El verano esta en KidZania.</title>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="description" content="Imprime o presenta este cupón en la entrada de KidZania y haz válido tu descuento.">
+        <meta name="description" content="Una ciudad donde los ninos juegan a lo grande.">
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
         <link rel="canonical" href="http://localhost:5757/kidzania-thanks" />
@@ -43,7 +43,9 @@
             <div class="central clearfix">
                 <div class="middle clearfix">
                     <img src="http://localhost:5757/img/kidzania-logo.png" alt="www.kidzania.com" width="233" height="48">
-                    <p>Código: <span>KD00921</span></p>
+                    <p>Código MTY:<span> [+mty+]</span></p>
+                    <p>Código CUI:<span> [+cui+]</span></p>
+                    <p>Código SFE:<span> [+sfe+]</span></p>
                 </div>
             </div>
             <img src="http://localhost:5757/img/ninos-gracias-desktop.png" alt="Niños jugando" class="desktop" width="913" heigth="482">
