@@ -786,6 +786,14 @@ header h1 {
     display: block;
     margin: 160px auto 25px;
     width: 100%; }
+header h2 {
+  color: #FFF;
+  font-family: Helvetica, Arial, "sans-serif";
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 0.5em auto;
+  text-align: center; }
 header img[alt="www.kidzania.com"].desktop {
   bottom: 8px !important; }
 
