@@ -40,11 +40,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/gracias.html": {
+	"\/gracias.php": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/gracias.html",
+		"inputAbbreviatedPath": "\/gracias.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -126,6 +126,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/img\/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13606,
+		"inputAbbreviatedPath": "\/img\/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.png",
+		"outputAbbreviatedPath": "\/img\/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/img\/email\/25-porciento-de-descuento-en-boleto-de-entrada.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -135,7 +146,18 @@
 		"outputAbbreviatedPath": "\/img\/email\/25-porciento-de-descuento-en-boleto-de-entrada.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/img\/email\/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88671,
+		"inputAbbreviatedPath": "\/img\/email\/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.jpg",
+		"outputAbbreviatedPath": "\/img\/email\/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/img\/email\/estas-vacaciones-en-kidzania-te-estamos-esperando.jpg": {
 		"fileType": 16384,
@@ -146,7 +168,7 @@
 		"outputAbbreviatedPath": "\/img\/email\/estas-vacaciones-en-kidzania-te-estamos-esperando.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/email\/kidzania.png": {
 		"fileType": 32768,
@@ -157,7 +179,7 @@
 		"outputAbbreviatedPath": "\/img\/email\/kidzania.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/email\/Mailing_Mockup_Kidzania.jpg": {
 		"fileType": 16384,
@@ -168,7 +190,7 @@
 		"outputAbbreviatedPath": "\/img\/email\/Mailing_Mockup_Kidzania.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/email\/ninios.png": {
 		"fileType": 32768,
@@ -179,7 +201,7 @@
 		"outputAbbreviatedPath": "\/img\/email\/ninios.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/facebook.png": {
 		"fileType": 32768,
@@ -551,6 +573,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/snippets\/config\/settings.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/snippets\/config\/settings.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/snippets\/controller.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -865,9 +896,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/source\/kit\/gracias.kit",
-		"outputAbbreviatedPath": "\/gracias.html",
+		"outputAbbreviatedPath": "\/snippets\/libs\/templates\/gracias.tpl",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 1
 		},
 	"\/source\/kit\/head.kit": {
 		"fileType": 2048,

@@ -7,10 +7,16 @@ if ( !empty( $action ) )
         switch ( $action )
         {
             case 'contact':
+                session_name( 'kidzania-session' );
+                session_cache_expire( '60480' );
+                session_start();
                 $data[ "first_name" ]       = stripslashes ( strip_tags( trim( $_POST[ 'first_name' ] ) ) );
                 $data[ "last_name" ]        = stripslashes ( strip_tags( trim( $_POST[ 'last_name' ] ) ) );
                 $data[ "email" ]            = stripslashes ( strip_tags( trim( $_POST[ 'email' ] ) ) );
                 $data[ "privacy_policy" ]   = stripslashes ( strip_tags( trim( $_POST[ 'privacy_policy' ] ) ) );
+
+                $_SESSION[ 'email' ]        = $data[ 'email' ];
+                session_write_close();
 
                 /*
                 $cc = array(
@@ -71,13 +77,12 @@ if ( !empty( $action ) )
                     $message    = $formValidated->getMessage();
                     $contact    = [ 'response' => 'error', 'message' => $message ];
                 }
-                header( 'Location: ' . BASE_URL . 'gracias.html' );
+                header( 'Location: ' . SITE_URL . 'gracias.php' );
                 break;
             default:
-                header( 'Location: ' . BASE_URL );
+                header( 'Location: ' . SITE_URL );
                 break;
         }
-        echo $data;
     }
     catch ( Exception $e )
     {

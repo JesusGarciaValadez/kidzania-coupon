@@ -235,14 +235,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "snippets/libs/pp.config.ini",
-			"settings":
-			{
-				"buffer_size": 418,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -251,17 +243,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 186.0,
-		"last_filter": "wrap",
+		"height": 145.0,
+		"last_filter": "image",
 		"selected_items":
 		[
 			[
-				"wrap",
-				"Word Wrap: Toggle"
-			],
-			[
 				"image",
 				"Emmet: Update Image Size"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
 			],
 			[
 				"inden",
@@ -400,7 +392,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 475.0
+		"width": 583.0
 	},
 	"console":
 	{
@@ -422,14 +414,26 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/db",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs"
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/share.tpl",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/title.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB/database.sql",
 		"/Applications/MAMP/htdocs/kidzania-coupon/index.html",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/source/kit/contact.kit",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/source/javascript/main.js",
@@ -543,20 +547,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/cancelacion-agradecimiento/clientes-1.html",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/dolor-muscular.sass",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/leche-materna.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/primer-bebe.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/default-styles/_general.sass",
-		"/Applications/MAMP/htdocs/anpasa-new/Code/chunks/projectThumbnail.html",
-		"/Applications/MAMP/htdocs/anpasa-new/assets/templates/anpasa/css/catalogo.css",
-		"/Users/jgarcia/Downloads/mas_enfermeras_v2/mas_enfermeras_v2.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/vida-tiendas/agentes-5.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/seguro-casa-habitacion/clientes.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/juntos-por-una-movilidad-segura/clientes-1.html",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/Default (OSX).sublime-keymap",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/primer-bebe.sass"
 	],
 	"find":
 	{
@@ -577,6 +568,18 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"width=\"600\"",
+			"19.804878049vw",
+			"0.5853658537vw",
+			"1.26953125vw",
+			"0.48828125vw",
+			"2.7317073171vw",
+			"1.9512195122vw",
+			"0.9756097561vw",
+			"2.9268292683vw",
+			"40.292682927vw",
+			"1.2682926829vw",
+			"$config[ '",
 			"[ '",
 			"    '",
 			"=> [",
@@ -692,19 +695,7 @@
 			"src=\"imgs/",
 			"css/",
 			"270",
-			"D8EAF6",
-			"#E5EEF5",
-			"#5FAADC",
-			"src=\"imgs/",
-			"src=\"http://boletinaxa.com.mx/",
-			"src=\"imgs/",
-			"css/",
-			"343",
-			"600",
-			"<tr width=\"600\" border=\"0\">\n                                                    <td colspan=\"2\" width=\"580\" align=\"center\" valign=\"bottom\" border=\"0\" style=\"padding: 0 10px;\">\n\n                                                    </td>\n                                                </tr>",
-			"580",
-			"src=\"img/",
-			"super"
+			"D8EAF6"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -732,38 +723,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "snippets/libs/pp.config.ini",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 418,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								417,
-								259
-							]
-						],
-						"settings":
-						{
-							"apply_syntax_touched": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -842,7 +803,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/boletin_axa/boletin-axa.sublime-project"
+				"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/giovanni-bojanini-argentina.sublime-project"
 			],
 			[
 				"boletin",
