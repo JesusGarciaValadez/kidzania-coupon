@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>El Verano está en KidZania. Visítanos</title>
+        <title>El verano esta en KidZania. | Una ciudad donde los ninos juegan a lo grande</title>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <style>
             <!--
@@ -127,7 +127,7 @@
         <table border="0" cellpadding="0" cellspacing="0" style="display:block;margin:0 auto;" width="650">
             <tr width="650" border="0">
                 <td width="650" align="left" valign="middle" border="0">
-                    <img src="http://localhost/kidzania-coupon/img/email/estas-vacaciones-en-kidzania-te-estamos-esperando.jpg" alt="Estas vacaciones de verano en Kidzania te estamos esperando" width="650" height="300" class="image" align="center" valign="middle" />
+                    <img src="http://localhost/kidzania-coupon/img/email/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.jpg" alt="El verano esta en KidZania una ciudad donde los ninos juegan a lo grande" width="650" height="300" class="image" align="center" valign="middle" />
                 </td>
             </tr><!-- Estas vacaciones de verano en Kidzania te estamos esperando -->
             <tr width="650" border="0">
@@ -147,7 +147,9 @@
             </tr><!-- Kidzania -->
             <tr width="650" border="0">
                 <td width="650" align="center" valign="middle" border="0" style="padding: 0 20px;">
-                    <p class="text_gray centered" align="center" valign="middle" style="font-size:25px; line-height:1; width: 300px;"><b class="bold text_kidzania">Código: </b>KD00921</p>
+                    <p class="text_gray centered" align="center" valign="middle" style="font-size:20px; line-height:1; width: 300px;"><b class="bold text_kidzania">Código MTY: </b>4677CPKHEKP1CDE</p>
+                    <p class="text_gray centered" align="center" valign="middle" style="font-size:20px; line-height:1; width: 300px;"><b class="bold text_kidzania">Código CUI: </b>419A2PNHOEO124A</p>
+                    <p class="text_gray centered" align="center" valign="middle" style="font-size:20px; line-height:1; width: 300px;"><b class="bold text_kidzania">Código SFE: </b>DC219PNHZQO1A2D</p>
                 </td>
             </tr><!-- Código -->
             <tr width="650" border="0">
