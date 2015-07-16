@@ -16,7 +16,6 @@ if ( !empty( $action ) )
                 $data[ "privacy_policy" ]   = stripslashes ( strip_tags( trim( $_POST[ 'privacy_policy' ] ) ) );
 
                 $_SESSION[ 'email' ]        = $data[ 'email' ];
-                session_write_close();
 
                 /*
                 $cc = array(
@@ -66,18 +65,20 @@ if ( !empty( $action ) )
                     if ( $userSaved )
                     {
                         $response = $contact->sendEmail( );
+
+                        header( 'Location: ' . SITE_URL . 'gracias.php' );
                     }
                     else
                     {
-                        $response = false;
+                        header( 'Location: ' . SITE_URL );
                     }
                 }
                 else
                 {
-                    $message    = $formValidated->getMessage();
-                    $contact    = [ 'response' => 'error', 'message' => $message ];
+                    /*$message    = $formValidated->getMessage();
+                    $contact    = [ 'response' => 'error', 'message' => $message ];*/
+                    header( 'Location: ' . SITE_URL );
                 }
-                header( 'Location: ' . SITE_URL . 'gracias.php' );
                 break;
             default:
                 header( 'Location: ' . SITE_URL );

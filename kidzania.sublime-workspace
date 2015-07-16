@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"session_un",
+				"session_unset"
+			],
+			[
 				"array_ke",
 				"array_key_exists"
 			],
@@ -422,20 +426,22 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop"
+		"/Applications/MAMP/htdocs/kidzania-coupon/source"
 	],
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/share.tpl",
+		"/Applications/MAMP/htdocs/kidzania-coupon/ht.access",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
 		"/Applications/MAMP/htdocs/kidzania-coupon/gracias.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/.htaccess",
+		"/Applications/MAMP/conf/php5.5.10/php.ini",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/share.tpl",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/settings.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/gracias.tpl",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
@@ -444,16 +450,12 @@
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/config.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/template/gracias.tpl",
-		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/title.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB/database.sql",
 		"/Applications/MAMP/htdocs/kidzania-coupon/index.html",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/source/kit/contact.kit",
@@ -556,15 +558,11 @@
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/scripts.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/dolor-muscular.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/primer-bebe.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/tu-mochila.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/head.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/leche-materna.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/css/estrategia-ganadora.css",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/mas-enfermeras/mas-enfermeras.html"
+		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/tu-mochila.kit"
 	],
 	"find":
 	{
-		"height": 43.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -581,6 +579,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"mod_headers.so",
+			"it",
 			"}\n",
 			"width=\"600\"",
 			"19.804878049vw",
@@ -706,9 +706,7 @@
 			"src=\"",
 			"src=\"\" alt=\"\">",
 			"/04-leche-materna/",
-			"src=\"imgs/",
-			"css/",
-			"270"
+			"src=\"imgs/"
 		],
 		"highlight": true,
 		"in_selection": false,

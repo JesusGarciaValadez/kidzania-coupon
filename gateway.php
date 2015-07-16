@@ -1,5 +1,4 @@
 <?php
-
 define( 'ACTUAL_PATH', dirname(__FILE__) . DIRECTORY_SEPARATOR . 'snippets' );
 require_once ACTUAL_PATH . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR . 'settings.php';
 
@@ -13,4 +12,3 @@ if ( !empty( $action ) )
 {
     require_once SNIPPETS_PATH . 'controller.php';
 }
-
