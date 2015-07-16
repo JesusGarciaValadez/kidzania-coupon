@@ -335,10 +335,10 @@ AddDefaultCharset utf-8
 # prevent `https://www.example.com` when your certificate only allows
 # `https://secure.example.com`.
 
-# <IfModule mod_rewrite.c>
+#<IfModule mod_rewrite.c>
 #    RewriteCond %{SERVER_PORT} !^443
-#    RewriteRule ^ https://pro-meta.com.mx%{REQUEST_URI} [R=301,L]
-# </IfModule>
+#    RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L]
+#</IfModule>
 
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -626,8 +626,8 @@ RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
 # For servers that support output compression, you should pick up a bit of
 # speed by un-commenting the following lines.
 
-php_flag zlib.output_compression On
-php_value zlib.output_compression_level 5
+#php_flag zlib.output_compression On
+#php_value zlib.output_compression_level 5
 
 # The following directives stop screen flicker in IE on CSS rollovers. If
 # needed, un-comment the following rules. When they're in place, you may have
