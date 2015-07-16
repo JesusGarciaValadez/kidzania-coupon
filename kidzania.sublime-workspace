@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"config",
+				"configFile"
+			],
+			[
 				"date_time",
 				"date_timezone_set"
 			],
@@ -414,25 +422,38 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source"
+		"/Applications/MAMP/htdocs/kidzania-coupon/source",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop"
 	],
 	"file_history":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/share.tpl",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/gracias.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/settings.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/gracias.tpl",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/cupon.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/ParserTemplate.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/config.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/template/gracias.tpl",
+		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/title.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB/database.sql",
 		"/Applications/MAMP/htdocs/kidzania-coupon/index.html",
 		"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/source/kit/contact.kit",
@@ -539,19 +560,11 @@
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/head.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/leche-materna.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/css/estrategia-ganadora.css",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/mas-enfermeras/mas-enfermeras.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/tu-mochila.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/vida-tiendas/agentes-6.html",
-		"/Users/jgarcia/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/landings-salud/landings-1-4.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/cancelacion-agradecimiento/clientes-1.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/dolor-muscular.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/leche-materna.sass",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/sass/custom-styles/desktop/primer-bebe.sass"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/mailings/mas-enfermeras/mas-enfermeras.html"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -568,6 +581,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"}\n",
 			"width=\"600\"",
 			"19.804878049vw",
 			"0.5853658537vw",
@@ -694,8 +708,7 @@
 			"/04-leche-materna/",
 			"src=\"imgs/",
 			"css/",
-			"270",
-			"D8EAF6"
+			"270"
 		],
 		"highlight": true,
 		"in_selection": false,

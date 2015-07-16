@@ -3,9 +3,9 @@
 define( 'ACTUAL_PATH', dirname( __FILE__ ) . DIRECTORY_SEPARATOR . 'snippets' );
 require_once ACTUAL_PATH . DIRECTORY_SEPARATOR . 'config' . DIRECTORY_SEPARATOR . 'settings.php';
 
-session_name( 'kidzania-session' );
-session_cache_expire( '60480' );
 session_start();
+
+echo $_SESSION[ 'email' ];
 
 if ( array_key_exists( 'id', $_SESSION ) && !empty( $_SESSION[ 'id' ] ) )
 {

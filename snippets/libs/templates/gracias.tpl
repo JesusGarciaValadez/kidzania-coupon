@@ -24,8 +24,8 @@
             <div class="central">
                 <div class="middle">
                     <h1>
-                        <a href="http://localhost:5757/" title="KidZania. Estás cerca de divertirte a lo grande." class="clearfix">
-                            <img src="http://localhost:5757/img/kidzania-estas-muy-cerca-de-divertirte-a-lo-grande.png" alt="KidZania. Estás cerca de divertirte a lo grande." width="458" height="238">
+                        <a href="http://localhost:5757/" title="El verano esta en KidZania una ciudad donde los ninos juegan a lo grande." class="clearfix">
+                            <img src="http://localhost:5757/img/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.png" alt="El verano esta en KidZania una ciudad donde los ninos juegan a lo grande." width="390" height="215">
                         </a>
                     </h2>
                 </div>
