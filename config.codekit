@@ -873,6 +873,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/source\/kit\/conversion.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/source\/kit\/conversion.kit",
+		"outputAbbreviatedPath": "\/conversion.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/source\/kit\/cupon.kit": {
 		"fileType": 2048,
 		"ignore": 1,

@@ -17,12 +17,9 @@ if ( !empty( $action ) )
 
                 $_SESSION[ 'email' ]        = $data[ 'email' ];
 
-                /*
                 $cc = array(
-                    array( 'mail'  => 'jesus.garciav@me.com', 'name'  => 'Jesús' )
+                    array( 'mail'  => $config[ 'emailCC' ][ 'email_address_one' ], 'name'  => $config[ 'emailCC' ][ 'email_name_one' ] )
                 );
-                */
-                $cc = [];
 
                 $rules      = [ 'first_name' => [
                                     'requerido' => 1,

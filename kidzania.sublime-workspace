@@ -426,15 +426,15 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs/kidzania-coupon",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/ht.access",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
 		"/Applications/MAMP/htdocs/kidzania-coupon/gracias.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/close.kit",
@@ -814,7 +814,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/giovanni-bojanini-argentina/giovanni-bojanini-argentina.sublime-project"
+				"/Applications/MAMP/htdocs/boletin_axa/boletin-axa.sublime-project"
 			],
 			[
 				"boletin",
