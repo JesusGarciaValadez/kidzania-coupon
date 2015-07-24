@@ -17,8 +17,15 @@ if ( !empty( $action ) )
 
                 $_SESSION[ 'email' ]        = $data[ 'email' ];
 
-                $cc = array(
-                    array( 'mail'  => $config[ 'emailCC' ][ 'email_address_one' ], 'name'  => $config[ 'emailCC' ][ 'email_name_one' ] )
+                $bcc = array(
+                    array(
+                        'mail'  => $config[ 'emailBCC' ][ 'email_address_one' ],
+                        'name'  => $config[ 'emailBCC' ][ 'email_name_one' ]
+                    ),
+                    array(
+                        'mail'  => $config[ 'emailBCC' ][ 'email_address_two' ],
+                        'name'  => $config[ 'emailBCC' ][ 'email_name_two' ]
+                    )
                 );
 
                 $rules      = [ 'first_name' => [
@@ -54,7 +61,7 @@ if ( !empty( $action ) )
                     $contact->setTemplate( "share.tpl" );
                     $contact->setSubject( "El Verano está en KidZania. Visítanos" );
                     $contact->setCorreo( $data[ "email" ] );
-                    $contact->setCC( $cc );
+                    $contact->setBCC( $bcc );
 
                     $contact->setInfo( $data );
                     $userSaved    = $contact->insertInfo( $formValidated );
