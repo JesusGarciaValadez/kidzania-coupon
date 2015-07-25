@@ -255,17 +255,21 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 227.0,
-		"last_filter": "wrap",
+		"height": 400.0,
+		"last_filter": "htm",
 		"selected_items":
 		[
 			[
-				"wrap",
-				"Word Wrap: Toggle"
+				"htm",
+				"Set Syntax: HTML"
 			],
 			[
 				"image",
 				"Emmet: Update Image Size"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
 			],
 			[
 				"inden",
@@ -293,10 +297,6 @@
 			],
 			[
 				"html",
-				"Set Syntax: HTML"
-			],
-			[
-				"htm",
 				"Set Syntax: HTML"
 			],
 			[
@@ -404,7 +404,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 813.0
+		"width": 457.0
 	},
 	"console":
 	{
@@ -425,22 +425,17 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/MAMP/htdocs/kidzania-coupon"
+		"/Applications/MAMP/htdocs/kidzania-coupon",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source"
 	],
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/title.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/conversion.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/config.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/settings.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
+		"/Users/jesus/Desktop/shelfs.html",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/controller.php",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/head.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/gracias.tpl",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
-		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/contact.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/ht.access",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/pp.config.ini",
 		"/Applications/MAMP/htdocs/kidzania-coupon/gracias.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/gateway.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/header.kit",
@@ -449,12 +444,18 @@
 		"/Applications/MAMP/conf/php5.5.10/php.ini",
 		"/Applications/MAMP/conf/apache/httpd.conf",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/share.tpl",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/settings.php",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/templates/gracias.tpl",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/thanks.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/cupon.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/libs/ParserTemplate.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/desktop/home.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/snippets/config/config.php",
 		"/Applications/MAMP/htdocs/kidzania-coupon/template/gracias.tpl",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/gracias.kit",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/index.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/default-styles/_general.sass",
+		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/title.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/sass/custom-styles/mobile/home.sass",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/kit/print.kit",
 		"/Applications/MAMP/htdocs/kidzania-coupon/source/DB/database.sql",
@@ -556,7 +557,9 @@
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/estrategia-ganadora.html",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/mundo-del-deporte.html",
 		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/primeros-dientes.html",
-		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/scripts.kit"
+		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/scripts.kit",
+		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/dolor-muscular.kit",
+		"/Applications/MAMP/htdocs/boletin_axa/axa-touch-salud/landings/source/kit/primer-bebe.kit"
 	],
 	"find":
 	{
@@ -812,7 +815,7 @@
 		[
 			[
 				"",
-				"/Applications/MAMP/htdocs/boletin-axa-prevencion-360/source/sass/prevencion-360.sublime-project"
+				"/Applications/MAMP/htdocs/tufotoconelguero-new/tu-foto-con-el-guero.sublime-project"
 			],
 			[
 				"boletin",
