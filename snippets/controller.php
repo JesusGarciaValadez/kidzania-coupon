@@ -59,7 +59,7 @@ if ( !empty( $action ) )
 
                     $contact   = new Contact( $dbh, $config['database']['db_table'] );
                     $contact->setTemplate( "share.tpl" );
-                    $contact->setSubject( "El Verano está en KidZania. Visítanos" );
+                    $contact->setSubject( "¡Felicidades! 🎉 Estás apunto de vivir un Verano increíble en KidZania" );
                     $contact->setCorreo( $data[ "email" ] );
                     $contact->setBCC( $bcc );
 
