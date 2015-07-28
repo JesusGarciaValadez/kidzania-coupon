@@ -76,7 +76,7 @@
         <section class="wrapper title">
             <div class="center">
                 <div class="middle">
-                    <h2>Imprime o presenta este cupón en la entrada de KidZania y haz valido tu descuento.</h2>
+                    <h2>Presenta este cupón impreso en la entrada de KidZania y haz valido tu descuento.</h2>
                     <img src="https://www.kidzaniapromociones.com/img/25-porciento-de-descuento-en-boleto-de-entrada.png" alt="25% de descuento en boleto de entrada" width="414" height="233">
                 </div>
             </div>

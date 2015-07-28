@@ -132,7 +132,7 @@
             </tr><!-- Estas vacaciones de verano en Kidzania te estamos esperando -->
             <tr width="650" border="0">
                 <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
-                    <p class="text_gray centered align_left" align="center" valign="middle" style="font-size:13px; line-height:1; width:610px">Imprime o presenta este cupón en la entrada de Kidzania y haz válido tu descuento.</p>
+                    <p class="text_gray centered align_left" align="center" valign="middle" style="font-size:13px; line-height:1; width:610px">Presenta este cupón impreso en la entrada de Kidzania y haz válido tu descuento.</p>
                 </td>
             </tr><!-- Imprime o presenta este cupón en la entrada de Kidzania y haz válido tu descuento -->
             <tr width="650" border="0">
