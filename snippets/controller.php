@@ -8,7 +8,8 @@ if ( !empty( $action ) )
         {
             case 'contact':
                 session_name( 'kidzania-session' );
-                session_cache_expire( '60480' );
+                //session_cache_expire( '60480' );
+                session_set_cookie_params ( 3628800, '/', ".kidzaniapromociones.com", true, true );
                 session_start();
                 $data[ "first_name" ]       = stripslashes ( strip_tags( trim( $_POST[ 'first_name' ] ) ) );
                 $data[ "last_name" ]        = stripslashes ( strip_tags( trim( $_POST[ 'last_name' ] ) ) );
