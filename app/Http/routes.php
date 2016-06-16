@@ -11,6 +11,9 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::group( [ 'middleware' => [ 'web' ] ], function ()
+{
+  Route::get( '/', [ 'as' => 'sendContact', 'uses' => 'ContactController@create' ] );
+  Route::post( 'gracias', [ 'as' => 'thankYou', 'uses' => 'ContactController@store' ] );
+} );
+

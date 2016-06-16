@@ -65,7 +65,7 @@ return [
     |
     */
 
-    'locale' => 'en',
+    'locale' => 'es',
 
     /*
     |--------------------------------------------------------------------------
@@ -156,6 +156,13 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        /*
+         * Custom Service Providers
+         */
+        Collective\Html\HtmlServiceProvider::class,
+        Themsaid\MailPreview\MailPreviewServiceProvider::class,
+        Barryvdh\Debugbar\ServiceProvider::class,
+        Cviebrock\EloquentSluggable\ServiceProvider::class
     ],
 
     /*
@@ -202,6 +209,12 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
 
+        /*
+         * Custom Alias
+         */
+        'Form'      => Collective\Html\FormFacade::class,
+        'Html'      => Collective\Html\HtmlFacade::class,
+        'Debugbar'  => Barryvdh\Debugbar\Facade::class,
     ],
 
 ];
