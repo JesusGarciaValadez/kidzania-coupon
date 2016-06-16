@@ -1,6 +1,7 @@
 @extends ( 'layout.app' )
 
-@section ( 'title', '' )
+@section ( 'title', 'Pide tu cupón' )
+@section ( 'description', 'Registra' )
 
 @section ( 'content' )
       <div class="col-md-12 container-kid">
