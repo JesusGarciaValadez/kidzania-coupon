@@ -44,16 +44,10 @@ class Common {
         $tpl = ParserTemplate::parseTemplate('envio_inventario.html', $data);
 
         $correos    = array(
-            /*
             array(
                 'mail'      => 'jesus.garciav@me.com'
                 , 'name'    => 'Jesús'
             ),
-            */
-            array(
-                'mail'      => 'vdavila@cmv.com.mx'
-                , 'name'    => 'Vico'
-            )
         );
 
         if ( Mailer::sendMail( 'Encuesta ONE / Primer PReview', $tpl, $to , '' , $correos ) ) {
@@ -93,16 +87,10 @@ class Common {
         $tpl = ParserTemplate::parseTemplate('envio_inventario_second.html', $data);
 
         $correos    = array(
-            /*
             array(
                 'mail'      => 'jesus.garciav@me.com'
                 , 'name'    => 'Jesús'
             ),
-            */
-            array(
-                'mail'      => 'vdavila@cmv.com.mx'
-                , 'name'    => 'Vico'
-            )
         );
 
         if ( Mailer::sendMail( 'Encuesta ONE / Segundo Review', $tpl, $to , '' , $correos ) ) {
@@ -145,13 +133,9 @@ class Common {
 
         $correos    = array(
             array(
-                'mail'      => 'jgarcia@cmvasfalto.com.mx'
+                'mail'      => 'jesus.garciav@me.com'
                 , 'name'    => 'Jesús'
             ),
-            array(
-                'mail'      => 'vdavila@cmv.com.mx'
-                , 'name'    => 'Vico'
-            )
         );
 
         if ( Mailer::sendMail( 'Encuesta ONE / Tercer Review', $tpl, $to , '' , $correos ) ) {
