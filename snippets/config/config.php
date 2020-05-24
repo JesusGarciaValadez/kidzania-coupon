@@ -1,6 +1,6 @@
 <?php
 
-define( 'SITE_URL', 'http://localhost/kidzania-coupon' . DIRECTORY_SEPARATOR );
+define( 'SITE_URL', 'https://cupon-kidzania-mx.netlify.app/' . DIRECTORY_SEPARATOR );
 define( 'BASE_URL', dirname( dirname( __DIR__ ) ) . DIRECTORY_SEPARATOR );
 define( 'SNIPPETS_PATH', dirname( __DIR__ ) . DIRECTORY_SEPARATOR );
 define( 'CLASSES_PATH', SNIPPETS_PATH . 'classes'. DIRECTORY_SEPARATOR );
