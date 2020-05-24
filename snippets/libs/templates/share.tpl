@@ -127,7 +127,7 @@
         <table border="0" cellpadding="0" cellspacing="0" style="display:block;margin:0 auto;" width="650">
             <tr width="650" border="0">
                 <td width="650" align="left" valign="middle" border="0">
-                    <img src="http://localhost/kidzania-coupon/img/email/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.jpg" alt="El verano esta en KidZania una ciudad donde los ninos juegan a lo grande" width="650" height="300" class="image" align="center" valign="middle" />
+                    <img src="https://cupon-kidzania-mx.netlify.app/img/email/el-verano-esta-en-kidzania-una-ciudad-donde-los-ninos-juegan-a-lo-grande.jpg" alt="El verano esta en KidZania una ciudad donde los ninos juegan a lo grande" width="650" height="300" class="image" align="center" valign="middle" />
                 </td>
             </tr><!-- Estas vacaciones de verano en Kidzania te estamos esperando -->
             <tr width="650" border="0">
@@ -137,12 +137,12 @@
             </tr><!-- Imprime o presenta este cupón en la entrada de Kidzania y haz válido tu descuento -->
             <tr width="650" border="0">
                 <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
-                    <img src="http://localhost/kidzania-coupon/img/email/25-porciento-de-descuento-en-boleto-de-entrada.jpg" alt="25% de descuento en boletos de entrada." width="349" height="64" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
+                    <img src="https://cupon-kidzania-mx.netlify.app/img/email/25-porciento-de-descuento-en-boleto-de-entrada.jpg" alt="25% de descuento en boletos de entrada." width="349" height="64" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
                 </td>
             </tr><!-- 25% de descuento en boletos de entrada -->
             <tr width="650" border="0">
                 <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
-                    <img src="http://localhost/kidzania-coupon/img/email/kidzania.png" alt="Kidzania" width="219" height="47" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
+                    <img src="https://cupon-kidzania-mx.netlify.app/img/email/kidzania.png" alt="Kidzania" width="219" height="47" class="image" align="center" valign="middle" style="display: block; margin: 0.5em auto;" />
                 </td>
             </tr><!-- Kidzania -->
             <tr width="650" border="0">
@@ -154,7 +154,7 @@
             </tr><!-- Código -->
             <tr width="650" border="0">
                 <td width="610" align="center" valign="middle" border="0" style="padding: 0 20px;">
-                    <img src="http://localhost/kidzania-coupon/img/email/ninios.png" alt="Niños" width="650" height="354" class="image" align="center" valign="middle" style="display: block; margin: 0 auto;" />
+                    <img src="https://cupon-kidzania-mx.netlify.app/img/email/ninios.png" alt="Niños" width="650" height="354" class="image" align="center" valign="middle" style="display: block; margin: 0 auto;" />
                 </td>
             </tr><!-- Niños -->
             <tr width="650" border="0">
